@@ -1,4 +1,4 @@
 package com.example.basket;
 
-public class Triangle {
+public class Triangle extends Shape{
 }
