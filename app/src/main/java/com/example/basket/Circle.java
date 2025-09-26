@@ -1,4 +1,4 @@
 package com.example.basket;
 
-public class Circle {
+public class Circle extends Shape {
 }
